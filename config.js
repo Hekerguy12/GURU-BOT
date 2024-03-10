@@ -10,6 +10,7 @@ global.owner = [
   ['27814146259', 'HEKER', true], 
   ['27613080056', 'Auther', true],
   ['27612713802', 'Caleb', true]
+  ['27632843633', 'onikwa', true]
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
